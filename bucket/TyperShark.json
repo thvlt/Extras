@@ -5,5 +5,11 @@
     "license": "MIT",
     "url": "https://github.com/thvlt/d8/raw/main/TyperShark.zip",
     "extract_dir": "TyperShark",
-    "bin": "TyperShark.exe"
+    "bin": "TyperShark.exe",
+    "shortcuts": [
+        [
+            "TyperShark.exe",
+            "TyperShark"
+        ]
+    ]
 }
