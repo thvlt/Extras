@@ -1,14 +1,14 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "description": "Scratch",
     "homepage": "https://thaysang.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/thvlt/d8/releases/download/0.2/scratch64.zip"
+            "url": "https://github.com/thvlt/d8/releases/download/0.3/scratch64.zip"
         },
         "32bit": {
-            "url": "https://github.com/thvlt/scratch-gui/releases/download/scratch-desktop-v3.28.0/scratch.zip"
+            "url": "https://github.com/thvlt/d8/releases/download/0.3/scratch32.zip"
         }
     },
     "extract_dir": "scratch",
