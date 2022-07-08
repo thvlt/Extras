@@ -1,14 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lập trình vui",
     "homepage": "https://thaysang.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/thvlt/d8/releases/download/0.1/ltv64.zip"
+            "url": "https://github.com/thvlt/d8/releases/download/0.3/ltv64.zip"
         },
         "32bit": {
-            "url": "https://github.com/thvlt/d8/releases/download/0.1/ltv32.zip"
+            "url": "https://github.com/thvlt/d8/releases/download/0.3/ltv32.zip"
         }
     },
     "extract_dir": "ltv",
