@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "description": "ScratchLink",
+    "homepage": "http://www.scoop.sh",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/releases/download/0.2/ScratchLink.zip",
+    "extract_dir": "ScratchLink",
+    "bin": "ScratchLink.exe",
+    "shortcuts": [
+        [
+            "ScratchLink.exe",
+            "ScratchLink"
+        ]
+    ]
+}
